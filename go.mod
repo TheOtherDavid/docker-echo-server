@@ -1,4 +1,4 @@
-module github.com/TheOtherDavid/echo-server
+module github.com/TheOtherDavid/docker-echo-server
 
 go 1.16
 
